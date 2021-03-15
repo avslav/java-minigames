@@ -1,3 +1,9 @@
+/*
+Description: A Simple Magic 8ball Command with 7 possible answers (for now)! One of my first projects in Java!
+Written by: avslav
+Date: 15/03/2021
+*/
+
 package Projects.Minigames;
 
 import java.lang.Math;
@@ -18,29 +24,29 @@ public class _8ball {
     switch(num) {
       
       case 0:
-      System.out.println("\nYes!\n");
-      break;
+        System.out.println("\nYes!\n");
+        break;
       case 1:
-      System.out.println("\nNo!\n");
-      break;
+        System.out.println("\nNo!\n");
+        break;
       case 2:
-      System.out.println("\nMaybe!\n");
-      break;
+        System.out.println("\nMaybe!\n");
+        break;
       case 3:
-      System.out.println("\nUnlikely!\n");
-      break;
+        System.out.println("\nUnlikely!\n");
+        break;
       case 4:
-      System.out.println("\nCan't hear you.\n");
-      break;
+        System.out.println("\nCan't hear you.\n");
+        break;
       case 5:
-      System.out.println("\nConcentrate and ask again!\n");
-      break;
+        System.out.println("\nConcentrate and ask again!\n");
+        break;
       case 6:
-      System.out.println("\nToo early to say!\n ");
-      break;
+        System.out.println("\nToo early to say!\n ");
+        break;
       case 7:
-      System.out.println("\nOk mate, no.\n");
-      break;
+        System.out.println("\nOk mate, no.\n");
+        break;
       
       
     
@@ -53,6 +59,6 @@ public class _8ball {
   
   public static void main(String[] args) {
 
-  eball();
+    eball();
   }
 }
