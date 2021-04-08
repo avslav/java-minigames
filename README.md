@@ -1,5 +1,5 @@
 # java-minigames
-My first java projects - simple mini-games
+Simple terminal mini-games
 
 # File Overview:
 
