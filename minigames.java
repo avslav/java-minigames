@@ -1,5 +1,5 @@
 /* 
-Desctiption: One of my first projects in java, 
+Description: One of my first projects in java, 
 a fun minigame menu that allows you to play four minigames!
 Written By: avslav
 Date: 15/03/2021 
